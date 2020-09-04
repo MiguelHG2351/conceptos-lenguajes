@@ -6,6 +6,8 @@ class Saludos {
     }
 }
 
+// Modelo
+
 class FirstClase extends Saludos {
     constructor() {
         super()
@@ -38,4 +40,5 @@ promise.catch((err) => {
     console.log(err)
 })
 
+// Herencia
 let array = Array.prototype.push(["hola"])
