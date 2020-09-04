@@ -30,6 +30,8 @@ Ejemplos de como los frameworks pueden ser multiparadigma
 
 # Recursos en google docs
 
+
+
 [Informe](https://docs.google.com/document/d/1VlxaJFOuje98KY-IT3URwzgPeDRnQMs_72Pjv4_Syfs/edit?usp=sharing)
 
 
@@ -41,6 +43,8 @@ Ejemplos de como los frameworks pueden ser multiparadigma
 
 # Video de la tarea
 
-()[]
+[Github](https://github.com/MiguelHG2351/conceptos-lenguajes)
 
 Esta mejor explicado en el informe por que en el video esta algo nerviso
+
+[github]
